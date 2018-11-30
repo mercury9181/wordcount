@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55546f90-790c-44d9-84a6-7cc4b6b7d706" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/wordcount/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/wordcount/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wordcount/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -30,6 +30,15 @@
               <folding>
                 <element signature="e#634#662#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -87,8 +96,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -105,6 +114,7 @@
         <option value="$PROJECT_DIR$/wordcount/about.html" />
         <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/wordcount/urls.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
@@ -125,16 +135,6 @@
           <expand>
             <path>
               <item name="wordcount" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wordcount" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wordcount" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wordcount" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wordcount" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wordcount" type="462c0819:PsiDirectoryNode" />
               <item name="wordcount" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -436,6 +436,13 @@
           <folding>
             <element signature="e#634#662#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
         </state>
       </provider>
     </entry>
